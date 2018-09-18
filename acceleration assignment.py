@@ -15,7 +15,7 @@ if speed > 60:
     print("The​ ​person​ ​went​ ​over​ ​the​ ​speed​ ​limit.​ ​(Max​ ​speed​ ​was",speed, "m/s)")
 
 if speed < 60:
-    print("The​ ​person​ ​went​ ​over​ ​the​ ​speed​ ​limit.​ ​(Max​ ​speed​ ​was", speed, "m/s)")
+    print("The​ ​person​ didn't ​go ​over​ ​the​ ​speed​ ​limit.​ ​(Max​ ​speed​ ​was", speed, "m/s)")
 
 if actualdistance >= distance:
     print("The​ ​person​ ​reached​ ​the​ ​destination.​ ​(Reached",actualdistance, "m)")
