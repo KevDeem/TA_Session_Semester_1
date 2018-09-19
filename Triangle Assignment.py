@@ -42,7 +42,5 @@ while y < number:
 
 x = 1
 while x < number:
-    print(" " * (x) + "*" * (number - x ) + ("*" * (number - x - 1)))
+    print(" " * (x) + "*" * (number - x) + ("*" * (number - x - 1)))
     x = x + 1
-    if x == y:
-         break
